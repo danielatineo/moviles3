@@ -1,5 +1,6 @@
 /*
  *  Archivo modificado por Daniela
+ *  Esteban cuando hacemos el video de Profesor Richard att: Daniela
  * */
 
 package pe.com.csmm.aplicacionclientecsmm.Beans;
